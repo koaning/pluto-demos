@@ -1,2 +1,4 @@
 # pluto-demos
-Some pluto notebooks for demo purposes
+
+Some [Pluto](https://github.com/fonsp/Pluto.jl) notebooks for demo purposes. 
+
